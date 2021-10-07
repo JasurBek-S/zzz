@@ -1,0 +1,136 @@
+<?php
+
+return [
+    
+    'header_call' => 'Available 24/7 at',
+    'header_mobile_topbar' => 'Wishlist / Compare / Track',
+    'header_wishlist' => 'Wishlist',
+    'header_compare' => 'Compare',
+    'header_order_tracking' => 'Order tracking',
+    'header_search' => 'Search for products',
+    'header_my_cart' => 'My cart',
+    'header_subtotal' => 'Subtotal',
+    'header_expand_cart' => 'Expand cart',
+    'header_checkout' => 'Checkout',
+    'header_departments' => 'Departments',
+    // Sign in
+    'header_signin' => 'Hello, Sign in',
+    'header_my_account' => 'My Account',
+    // Sign in Modul title
+    'header_signin_title' => 'Sign in',
+    'header_signup_title' => 'Sign up',
+    // -- Sign in modul 
+    'header_signin_email' => 'Email address',
+    'header_signin_password' => 'Password',
+    'header_signin_password_show' => 'Show password',
+    'header_signin_remember_me' => 'Remember me',
+    'header_signin_forgot_password' => 'Forgot password?',
+    // -- Sign up modul 
+    'header_signup_full_name' => 'Full name',
+    'header_signup_email' => 'Email address',
+    'header_signup_password' => 'Password',
+    'header_signup_password_confirm' => 'Confirm password',
+    'header_signup_password_show' => 'Show password',
+    // login
+    'header_login' => 'Hello, ',
+    // Footer
+    'footer_info' => '© All rights reserved.',
+    // Footer -- card one
+    'footer_card_one_h' => 'Fast and free delivery',
+    'footer_card_one_p' => 'Free delivery for all orders over $200',
+    // Footer -- card two
+    'footer_card_two_h' => 'Money back guarantee',
+    'footer_card_two_p' => 'We return money within 30 days',
+    // Footer -- card three
+    'footer_card_three_h' => '24/7 customer support',
+    'footer_card_three_p' => 'Friendly 24/7 customer support',
+    // Footer -- card four
+    'footer_card_four_h' => 'Secure online payment',
+    'footer_card_four_p' => 'We possess SSL / Secure сertificate',
+
+    // Page 
+    'home_trending_products' => 'Trending products',
+    'home_more_products' => 'More products',
+
+    // Order Status
+    'orderstatus_title' => 'Order status',
+    'orderstatus_desc' => 'To see your order, please fill in the required fields. The order number was sent to your number in the form of an SMS message',
+    'orderstatus_input_owe' => 'Order number',
+    'orderstatus_input_owe_error' => 'It is necessary to fill in "Order number".',
+    'orderstatus_input_two' => 'Phone number when ordering',
+    'orderstatus_input_two_error' => '"Phone number when ordering" must be completed.',
+    'orderstatus_button' => 'Submit',
+    // -- Order status -- show
+    'tracking_title' => 'Order tracking',
+    'tracking_info_owe' => 'Shipped via:',
+    'tracking_info_two' => 'Status:',
+    'tracking_info_three' => 'Expected date:',
+    'tracking_order' => 'Tracking order:',
+    'tracking_box_owe_subtitle' => 'First step',
+    'tracking_box_owe_title' => 'Order placed',
+    'tracking_box_two_subtitle' => 'Second step',
+    'tracking_box_two_title' => 'Processing order',
+    'tracking_box_three_subtitle' => 'Third step',
+    'tracking_box_three_title' => 'Quality check',
+    'tracking_box_four_subtitle' => 'Fourth step',
+    'tracking_box_four_title' => 'Product dispatched',
+    'tracking_button' => 'View Order Details',
+    'tracking_checkbox' => 'Notify me when order is delivered',
+
+    // --Profile --Menu
+    'profile_dashboard' => 'Dashboard',
+    'profile_orders' => 'Orders',
+    'profile_wishlist' => 'Wishlist',
+    'profile_settings' => 'Account settings',
+    'profile_info' => 'Profile info',
+    'profile_addresses' => 'Addresses',
+    'profile_paymantmethods' => 'Payment methods',
+    'profile_signout' => 'Sign out',
+    // --Profile #Orders
+    'profile_orders_title' => 'My orders',
+    'profile_orders_table_order' => 'Order #',
+    'profile_orders_table_date' => 'Date Putchased',
+    'profile_orders_table_status' => 'Status',
+    'profile_orders_table_total' => 'Total',
+    'profile_orders_table_action' => 'Actions',
+    'profile_orders_table_tracking' => 'Order tracking',
+    // --Profile #info
+    'profile_info_title' => 'Profile info',
+    'profile_info_desc' => 'Update you profile details below:',
+    'profile_info_phone_desc' => 'Upload JPG, GIF or PNG image. 300 x 300 required.',
+    'profile_info_avator' => 'Change avatar',
+    'profile_info_input_first_name' => 'First Name',
+    'profile_info_input_last_name' => 'Last Name',
+    'profile_info_input_email' => 'Email Address',
+    'profile_info_input_phone' => 'Phone Number',
+    'profile_info_input_new_password' => 'New Password',
+    'profile_info_input_show' => 'Show password',
+    'profile_info_input_confirm_password' => 'Confirm Password',
+    'profile_info_update' => 'Update profile',
+    'profile_info_newsletter' => 'Subscribe me to Newsletter',
+    // --Profile #address
+    'profile_address_title' => 'Addresses',
+    'profile_address_desc' => 'List of your registered addresses:',
+    'profile_address_table_address' => 'Address',
+    'profile_address_table_actions' => 'Actions',
+    'profile_address_add_new_address' => 'Add new address',
+    // #New address
+    'profile_address_new_title' => 'Add a new address',
+    'profile_address_new_first_name' => 'First name',
+    'profile_address_new_first_name_feedback' => 'Please fill in you first name!',
+    'profile_address_new_last_name' => 'Last name',
+    'profile_address_new_last_name_feedback' => 'Please fill in you last name!',
+    'profile_address_new_campany' => 'Campany',
+    'profile_address_new_country' => 'Country',
+    'profile_address_new_country_feedback' => 'Please select your country!',
+    'profile_address_new_city' => 'City',
+    'profile_address_new_city_feedback' => 'Please fill in your city!',
+    'profile_address_new_line' => 'Line 1',
+    'profile_address_new_line_feedback' => 'Please fill in your address!',
+    'profile_address_new_linetwo' => 'Line 2',
+    'profile_address_new_zipcode' => 'Zip code',
+    'profile_address_new_zipcode_feedback' => 'Please add your ZIP code!',
+    'profile_address_new_primary' => 'Make this address primary',
+    'profile_address_new_close' => 'Close',
+    'profile_address_new_add' => 'Add address',
+];
